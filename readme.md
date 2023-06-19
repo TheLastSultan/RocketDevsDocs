@@ -1,6 +1,12 @@
-RocketDevs static help website with MKDOCS;
+## RocketDevs static help website with MKDOCS;
 
 This is a quick and dirty guide on getting started with MKDOCS;
+
+
+### To install;
+`pip install mkdocs-material`
+
+### Essential Links
 
 - VIDEO; https://www.youtube.com/watch?v=Q-YA_dA8C20
 - Github in Video: https://github.com/james-willett/mkdocs-material-youtube-tutorial
@@ -9,4 +15,3 @@ This is a quick and dirty guide on getting started with MKDOCS;
 - The docs:
   https://creatorfy.larksuite.com/docx/M9cidvTySourTPxMvVFugoE0stc
 
-  
