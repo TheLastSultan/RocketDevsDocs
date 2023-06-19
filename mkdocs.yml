@@ -1,0 +1,31 @@
+site_name: RocketDevs Help
+site_url: https://rocketdevs.com
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: red
+      accent: orange 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: red
+      accent: orange
+
+copyright: |
+  &copy; 2023 <a href="https://linkedin.com/in/thelastsultan"  target="_blank" rel="noopener">RocketDevs Help</a>
