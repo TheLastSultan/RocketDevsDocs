@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="48efdf1c-2484-4418-ad23-fd8649ab1db6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudformation.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <workItem from="1687351854427" duration="2475000" />
       <workItem from="1687797332126" duration="892000" />
       <workItem from="1688544650974" duration="775000" />
-      <workItem from="1688557104149" duration="3011000" />
+      <workItem from="1688557104149" duration="3658000" />
     </task>
     <servers />
   </component>
