@@ -1,6 +1,7 @@
 site_name: RocketDevs Help
 site_url: https://rocketdevs.com
 theme:
+  favicon: assets/rockets.png
   logo: assets/rockets.png
   name: material
   features:
@@ -29,9 +30,12 @@ theme:
       accent: orange
 nav:
   - Why RocketDevs?: index.md
-  - Hiring Guide: HiringGuide.md
+  - RocketLevels: HiringGuide.md
   - Screening Process: TechnicalScreeningProcess.md
-  - I found a Dev, now what?: IFoundaDev.md
+  - I found a Dev!: IFoundaDev.md
   - FAQ: FAQS.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
 copyright: |
   &copy; 2023 <a href="https://linkedin.com/in/thelastsultan"  target="_blank" rel="noopener">RocketDevs Help</a>

@@ -26,7 +26,7 @@ jobs:
         run: mkdocs build
 
       - name: Sync to S3
-        run: aws s3 sync ./site s3://rocketdevs-help
+        run: aws s3 sync ./site s3://help.rocketdevs.com
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

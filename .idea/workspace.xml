@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48efdf1c-2484-4418-ad23-fd8649ab1db6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/stylessheets/extra.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build-and-deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-and-deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/FAQS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FAQS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/HiringGuide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HiringGuide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/IFoundaDev.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/IFoundaDev.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/TechnicalScreeningProcess.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/TechnicalScreeningProcess.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +59,10 @@
       <workItem from="1687351854427" duration="2475000" />
       <workItem from="1687797332126" duration="892000" />
       <workItem from="1688544650974" duration="775000" />
-      <workItem from="1688557104149" duration="3658000" />
+      <workItem from="1688557104149" duration="5186000" />
+      <workItem from="1689431746657" duration="451000" />
+      <workItem from="1689432572409" duration="384000" />
+      <workItem from="1689439018476" duration="4497000" />
     </task>
     <servers />
   </component>

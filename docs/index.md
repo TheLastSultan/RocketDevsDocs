@@ -26,3 +26,10 @@ With RocketDevs, you gain access to a vast network of experienced remote develop
 At RocketDevs, we prioritize your satisfaction. Our dedicated support team is always ready to assist you throughout the recruitment process. Whether you have questions, need guidance, or require any form of assistance, we are just a call or message away. We strive to provide prompt and personalized support, ensuring a smooth and hassle-free experience with our platform.
 
 Choosing RocketDevs means gaining access to a carefully vetted pool of remote developers at an unbeatable price point. With our rigorous screening, investment in talent, and focus on remote development expertise, we are committed to delivering developers who will exceed your expectations. Experience the RocketDevs advantage and find your perfect remote developer today.
+
+
+<br>
+
+<div align="center">
+    <button type="button" class="md-button md-button--primary" onclick="window.location.href = 'https://rocketdevs.com/browse';"> Browse Developers</button>
+</div>

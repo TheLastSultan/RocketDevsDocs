@@ -32,3 +32,9 @@ L3 candidates enter RocketDevs at the "lead" level, representing experienced pro
 <br>With RocketDevs, you can be confident that our assessments are tailored to each experience level, ensuring that you have access to developers who align with your specific requirements. Our deep developer profiles provide you with a comprehensive view of the candidates' assessment results, helping you make informed decisions when selecting the perfect remote developer for your team.
 
 We strive to deliver exceptional talent at unparalleled price points, and our assessment process plays a vital role in achieving that goal. Experience the RocketDevs advantage and discover top-tier remote developers who will drive your projects to success.
+
+<br>
+
+<div align="center">
+    <button type="button" class="md-button md-button--primary md-button--xl" onclick="window.location.href = 'https://rocketdevs.com/browse';"> Browse Developers</button>
+</div>
