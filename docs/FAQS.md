@@ -23,9 +23,6 @@
  A: RocketDevs is committed to ensuring customer satisfaction. If you are not satisfied with a developer, they will work with you to understand the concerns and find a suitable solution. In cases where necessary, RocketDevs can provide a replacement developer to meet your expectations.
 #### 12. **How does RocketDevs handle intellectual property and confidentiality?**
  A: RocketDevs prioritizes the protection of intellectual property and confidentiality. They have confidentiality agreements in place with their developers, and you can also sign a separate NDA (Non-Disclosure Agreement) with the developers to ensure the security of your proprietary information.
-#### 13. **Hello Tim**
- A: RocketDevs prioritizes the protection of intellectual property and confidentiality. They have confidentiality agreements in place with their developers, and you can also sign a separate NDA (Non-Disclosure Agreement) with the developers to ensure the security of your proprietary information.
-
 <br>
 
 <div align="center">
