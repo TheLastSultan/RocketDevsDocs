@@ -29,11 +29,24 @@ theme:
       primary: red
       accent: orange
 nav:
+  - Blog:
+    - blog/index.md
   - Why RocketDevs?: index.md
   - RocketLevels: HiringGuide.md
   - Screening Process: TechnicalScreeningProcess.md
   - I found a Dev!: IFoundaDev.md
   - FAQ: FAQS.md
+plugins:
+  - blog:
+      post_date_format: full
+      post_url_date_format: yyyy/MM/dd
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
 markdown_extensions:
   - attr_list
   - md_in_html
