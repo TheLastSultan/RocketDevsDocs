@@ -20,7 +20,7 @@ jobs:
           python-version: 3.7
 
       - name: Install dependencies
-        run: pip install mkdocs mkdocs-material awscli
+        run: pip install mkdocs mkdocs-material==9.2.0b3 awscli mkdocs-rss-plugin
 
       - name: Build documentation
         run: mkdocs build
