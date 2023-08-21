@@ -4,7 +4,7 @@ This is a quick and dirty guide on getting started with MKDOCS;
 
 
 ### To install;
-`pip install mkdocs-material`
+`pip install mkdocs-material==9.2.0b3`
 
 ### Essential Links
 
