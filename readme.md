@@ -6,6 +6,9 @@ This is a quick and dirty guide on getting started with MKDOCS;
 ### To install;
 `pip install mkdocs-material==9.2.0b3`
 
+### To run locally;
+`mkdocs build`
+
 ### Essential Links
 
 - VIDEO; https://www.youtube.com/watch?v=Q-YA_dA8C20
