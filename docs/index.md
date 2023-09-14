@@ -23,9 +23,7 @@ At RocketDevs, talent screening is our bread and butter. Our comprehensive and m
 ### **Watch the screenings as if you were there**
 
 <div align="center">
-<video style="width:60%" muted="" controls="" alt="type:video">
-   <source src="./videos/rocketdevs gif.mp4" type="video/mp4">
-</video>
+<img src="./assets/screenshot.png" alt="Pricing table" style="width:60%">
 </div>
 
 We provide a fully comprehensive view and access to the assessment results, giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
