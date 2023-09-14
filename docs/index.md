@@ -1,13 +1,17 @@
 # Why RocketDevs?
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4nUcmkj0yfQ?si=9XNd9B9EZSoZFBg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 At RocketDevs, we aim to revolutionize the price of building software. Our unique approach combines unparalleled value, rigorous screening, and investment in talent to deliver top-notch developers at unbeatable price points. Here's why you should choose RocketDevs for your technical recruitment needs
 
 
 ### **Unparalleled Price Points**
 
+<div align="center">
 <img src="./assets/pricing_table.png" alt="Pricing table" style="width:60%">
+</div>
 
 As a bootstrapped startup, we understand the importance of cost-effectiveness without compromising on talent. While our competitors charge around $54 and $78 per average developer, RocketDevs offers an incredible pricing model. We charge only 15$ for the same high-caliber developer talent. This means significant savings for your company while still securing exceptional remote developers who meet your specific requirements.
 
@@ -18,9 +22,11 @@ At RocketDevs, talent screening is our bread and butter. Our comprehensive and m
 
 ### **Watch the screenings as if you were there**
 
+<div align="center">
 <video style="width:60%" muted="" controls="" alt="type:video">
    <source src="./videos/rocketdevs gif.mp4" type="video/mp4">
 </video>
+</div>
 
 We provide a fully comprehensive view and access to the assessment results, giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
 
