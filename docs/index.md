@@ -19,6 +19,11 @@ We are bootstrapped and profitable from Day 1. Unlike our competitors, we don't 
 At RocketDevs, talent screening is our bread and butter. Our comprehensive and meticulous 10-hour screening process ensures that only the most competent developers make it through. We assess their technical skills, problem-solving abilities, and overall suitability for remote work. By investing significant time and effort in screening, we deliver developers who are not only highly skilled but also possess the right mindset and work ethic to thrive in a remote environment.
 
 ### **Watch the screenings as if you were there**
+
+<video src="./videos/rocketdevs gif.mp4" type='video/mp4' />
+</video>
+<br><br>
+
 We provide a fully comprehensive view and access to the assessment results, giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
 
 By leveraging our advanced assessment tools, you can have confidence in the developers you select from RocketDevs. You can review their technical proficiency, problem-solving approaches, and how they handle real-time challenges during the assessment process. This comprehensive evaluation empowers you to align your hiring decisions with your specific project requirements and organizational goals.
