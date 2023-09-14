@@ -37,6 +37,12 @@ nav:
   - I found a Dev!: IFoundaDev.md
   - FAQ: FAQS.md
 plugins:
+  - mkdocs-video:
+      is_video: True
+      video_muted: True
+      video_controls: True
+      css_style:
+        width: "50%"
   - blog:
       post_date_format: full
       post_url_date_format: yyyy/MM/dd

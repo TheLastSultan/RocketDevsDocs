@@ -1,13 +1,22 @@
-# Why RocketDevs? 
+# Why RocketDevs?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4nUcmkj0yfQ?si=9XNd9B9EZSoZFBg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
+
 At RocketDevs, we aim to revolutionize the price of building software. Our unique approach combines unparalleled value, rigorous screening, and investment in talent to deliver top-notch developers at unbeatable price points. Here's why you should choose RocketDevs for your technical recruitment needs
 
+
 ### **Unparalleled Price Points**
+
+<img src="./assets/pricing_table.png" alt="Pricing table">
+<br><br>
+
 As a bootstrapped startup, we understand the importance of cost-effectiveness without compromising on talent. While our competitors charge around $54 and $78 per average developer, RocketDevs offers an incredible pricing model. We charge only 15$ for the same high-caliber developer talent. This means significant savings for your company while still securing exceptional remote developers who meet your specific requirements.
 
 We are bootstrapped and profitable from Day 1. Unlike our competitors, we don't have a 87M Series D debt note and series debt note and never will. Our 90% margin is your 90% savings.
 
-### **Rigorous 12-Hour Screening Process**
-At RocketDevs, talent screening is our bread and butter. Our comprehensive and meticulous 12-hour screening process ensures that only the most competent developers make it through. We assess their technical skills, problem-solving abilities, and overall suitability for remote work. By investing significant time and effort in screening, we deliver developers who are not only highly skilled but also possess the right mindset and work ethic to thrive in a remote environment.
+### **Rigorous 10-Hour Screening Process**
+At RocketDevs, talent screening is our bread and butter. Our comprehensive and meticulous 10-hour screening process ensures that only the most competent developers make it through. We assess their technical skills, problem-solving abilities, and overall suitability for remote work. By investing significant time and effort in screening, we deliver developers who are not only highly skilled but also possess the right mindset and work ethic to thrive in a remote environment.
 
 ### **Watch the screenings as if you were there**
 We provide a fully comprehensive view and access to the assessment results, giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
