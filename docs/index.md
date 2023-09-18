@@ -4,6 +4,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4nUcmkj0yfQ?si=9XNd9B9EZSoZFBg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+At RocketDevs, we aim to make technical hiring simple. Our unique approach combines unparalleled value, rigorous screening, and social good to deliver top-notch developers at unbeatable value. 
+
 ### **Unparalleled Cost/Impact**
 
 <div align="center">
