@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48efdf1c-2484-4418-ad23-fd8649ab1db6" name="Changes" comment="docs much improved">
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="48efdf1c-2484-4418-ad23-fd8649ab1db6" name="Changes" comment="docs much improved" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +59,7 @@
       <workItem from="1692001223668" duration="981000" />
       <workItem from="1692622660520" duration="1789000" />
       <workItem from="1692715280807" duration="386000" />
-      <workItem from="1695073788479" duration="2964000" />
+      <workItem from="1695073788479" duration="3564000" />
     </task>
     <task id="LOCAL-00001" summary="docs much improved">
       <created>1689444988487</created>

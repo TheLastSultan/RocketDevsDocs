@@ -1,6 +1,6 @@
 # Why RocketDevs?
 
-At RocketDevs, we are on a mission to make technical hiring simple. Our unique approach combines unparalleled value, rigorous screening, and productivity management to deliver top-notch performance at unbeatable value. All while bringing opportunity to developers where it is needed most.
+At RocketDevs, we are on a mission to make technical hiring simple. Our unique approach combines unparalleled value, rigorous screening, and productivity management to deliver top-notch performance at unbeatable value. All while bringing opportunity to regions where it is needed most.
 
 ### **Unparalleled Cost/Impact**
 
@@ -34,12 +34,12 @@ Our commitment to providing you with a holistic view of the assessment results u
 <img src="./assets/td.png" alt="Productivity Management" style="width:60%">
 </div>
 
-RocketDevs ships with real-time monitoring and detailed reports designed to empower managers to make data-driven decisions about resource allocation and project priorities. This level of visibility not only promotes transparency but also bolsters accountability among remote workers, ensuring they remain on track and aligned with organizational goals.
+RocketDevs ships with [real-time monitoring and detailed reports](https://www.youtube.com/watch?v=4nUcmkj0yfQ&t=89s) designed to empower managers to make data-driven decisions about resource allocation and project priorities. This level of visibility not only promotes transparency but also bolsters accountability among remote workers, ensuring they remain on track and aligned with organizational goals.
 
-[Fully integrated](https://www.youtube.com/watch?v=4nUcmkj0yfQ&t=89s) with the tools you use: JIRA, Trello, GitHub, G-suite, Zoom, and way more.
+Fully integrated ith the tools you use: JIRA, Trello, GitHub, G-suite, Zoom, and way more.
 
 ### **Risk-Free Trial Period**
-Take advantage of the two week trial offered by RocketDevs. During this period, you can work with the developer to assess their skills and determine their compatibility with your project requirements. This risk-free trial allows you to make an informed decision before committing further.
+Take advantage of the two-week trial offered by RocketDevs. During this period, you can work with the developer to assess their skills and determine their compatibility with your project requirements. This risk-free trial allows you to make an informed decision before committing further.
 
 <br>
 
