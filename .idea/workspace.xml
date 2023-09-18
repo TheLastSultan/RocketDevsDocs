@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48efdf1c-2484-4418-ad23-fd8649ab1db6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/stylessheets/extra.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build-and-deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-and-deploy.yml" afterDir="false" />
+    <list default="true" id="48efdf1c-2484-4418-ad23-fd8649ab1db6" name="Changes" comment="docs much improved">
+      <change afterPath="$PROJECT_DIR$/docs/assets/td.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/FAQS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FAQS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/HiringGuide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HiringGuide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/IFoundaDev.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/IFoundaDev.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/TechnicalScreeningProcess.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/TechnicalScreeningProcess.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +22,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Projects/RocketDevsDocs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/admin/Projects/RocketDevsDocs/docs/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/assets" />
@@ -62,11 +59,27 @@
       <workItem from="1688557104149" duration="5186000" />
       <workItem from="1689431746657" duration="451000" />
       <workItem from="1689432572409" duration="384000" />
-      <workItem from="1689439018476" duration="4497000" />
+      <workItem from="1689439018476" duration="5255000" />
+      <workItem from="1692001223668" duration="981000" />
+      <workItem from="1692622660520" duration="1789000" />
+      <workItem from="1692715280807" duration="386000" />
+      <workItem from="1695073788479" duration="1717000" />
     </task>
+    <task id="LOCAL-00001" summary="docs much improved">
+      <created>1689444988487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689444988487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs much improved" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs much improved" />
   </component>
 </project>
