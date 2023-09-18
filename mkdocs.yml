@@ -34,6 +34,8 @@ nav:
   - Screening Process: TechnicalScreeningProcess.md
   - I found a Dev!: IFoundaDev.md
   - FAQ: FAQS.md
+extra:
+  generator: false
 markdown_extensions:
   - attr_list
   - md_in_html
