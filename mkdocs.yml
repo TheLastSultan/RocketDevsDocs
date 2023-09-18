@@ -29,8 +29,6 @@ theme:
       primary: red
       accent: orange
 nav:
-  - Blog:
-    - blog/index.md
   - Why RocketDevs?: index.md
   - RocketLevels: HiringGuide.md
   - Screening Process: TechnicalScreeningProcess.md
