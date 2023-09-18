@@ -1,5 +1,7 @@
 # Why RocketDevs?
 
+At RocketDevs, we are on a mission to make technical hiring simple. Our unique approach combines unparalleled value, rigorous screening, and productivity management to deliver top-notch performance at unbeatable value. All while bringing opportunity to developers where it is needed most.
+
 ### **Unparalleled Cost/Impact**
 
 <div align="center">
@@ -42,5 +44,12 @@ Take advantage of the two week trial offered by RocketDevs. During this period, 
 <br>
 
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4nUcmkj0yfQ?si=9XNd9B9EZSoZFBg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<br>
+
+<div align="center">
     <button type="button" class="md-button md-button--primary" onclick="window.location.href = 'https://rocketdevs.com/browse';"> Browse Developers</button>
 </div>
+
