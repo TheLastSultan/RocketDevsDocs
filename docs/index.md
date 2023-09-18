@@ -1,11 +1,5 @@
 # Why RocketDevs?
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4nUcmkj0yfQ?si=9XNd9B9EZSoZFBg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-At RocketDevs, we aim to make technical hiring simple. Our unique approach combines unparalleled value, rigorous screening, and social good to deliver top-notch developers at unbeatable value. 
-
 ### **Unparalleled Cost/Impact**
 
 <div align="center">
@@ -25,7 +19,7 @@ At RocketDevs, talent screening is our bread and butter. [Our comprehensive and 
 <img src="./assets/screenshot.png" alt="Pricing table" style="width:60%">
 </div>
 
-We provide a fully comprehensive view and access to the assessment results, giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
+[We provide a fully comprehensive view and access to the assessment results](https://youtu.be/4nUcmkj0yfQ?si=vcsY4awOGdScnPbA&t=69), giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
 
 By leveraging our advanced assessment tools, you can have confidence in the developers you select from RocketDevs. You can review their technical proficiency, problem-solving approaches, and how they handle real-time challenges during the assessment process. This comprehensive evaluation empowers you to align your hiring decisions with your specific project requirements and organizational goals.
 
