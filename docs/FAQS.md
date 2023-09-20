@@ -1,6 +1,6 @@
 # FAQS
 #### 1. **How does RocketDevs make technical hiring simple?**  
- A: RocketDevs combines unparalleled value, rigorous screening, and talent investment to deliver top-notch developers at unbeatable price points, starting at $1280 for a developer per month.
+ A: RocketDevs combines unparalleled value, rigorous screening, and talent investment to deliver top-notch developers at low, flat monthly fee. Starting at $1280 for a developer per month.
 #### 2. **What is RocketDevs' screening process like?**  
  A: RocketDevs employs a comprehensive 12-hour screening process that assesses technical skills, problem-solving abilities, and suitability for remote work. [We recommend you browse through our screening process](TechnicalScreeningProcess.md) to learn more
 #### 3. **Why do I have to complete an Onboarding Call?**  
