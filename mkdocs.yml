@@ -35,7 +35,7 @@ nav:
   - I found a Dev!: IFoundaDev.md
   - FAQ: FAQS.md
   - Blog:
-    - Home: blog/index.md
+    - Home: blog/home.md
 extra:
   generator: false
 extra_css:
