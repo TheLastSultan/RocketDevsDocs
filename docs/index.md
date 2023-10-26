@@ -8,7 +8,7 @@ At RocketDevs, we are on a mission to make technical hiring simple. Our unique a
 <img src="./assets/pricing_table.png" alt="Pricing table" style="width:60%">
 </div>
 
-As a bootstrapped startup, we understand the importance of cost-effectiveness without compromising on competence. While our competitors charge around $54 and $78 per average developer, RocketDevs offers an incredible pricing model. We charge only 15$ for the same high-caliber developer talent. This means significant savings for your company while still securing exceptional remote developers who meet your specific requirements.
+As a bootstrapped startup, we understand the importance of cost-effectiveness without compromising on competence. While our competitors charge $8640/month and $12480/month per median-priced developer, RocketDevs offers an incredible pricing model. We charge only $2400/month for the same high-caliber developer talent (~$15/hr). This means significant savings for your company while still securing exceptional remote developers who meet your specific requirements.
 
 We are bootstrapped and profitable from Day 1. Unlike our competitors, we don't have a 87M Series D debt note and series debt note and never will. Our 90% margin is your 90% savings.
 

@@ -34,8 +34,12 @@ nav:
   - Screening Process: TechnicalScreeningProcess.md
   - I found a Dev!: IFoundaDev.md
   - FAQ: FAQS.md
+  - Blog:
+    - Home: blog/home.md
 extra:
   generator: false
+extra_css:
+  - custom.css
 markdown_extensions:
   - attr_list
   - md_in_html
