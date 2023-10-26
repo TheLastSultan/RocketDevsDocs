@@ -18,8 +18,7 @@ Choose an L2 when:
 2. **Collaborative Development**: They are often well-suited to working as part of a larger team, complementing both junior and more experienced developers.
 3. **Architectural Input**: While they might not be the chief architects, L2 developers can offer valuable input on system design based on their experience with different tools and methods.
 4. **Problem Solving**: You're seeking someone who can efficiently troubleshoot and solve problems as they arise, drawing from their growing bank of experience.
-5. **Mentorship**: An L2 can often assist in mentoring L1 engineers, sharing their experiences, mistakes, and learnings from their early years.
-6. **Stakeholder**: Communication: They can effectively communicate with peers and may have started interfacing with stakeholders, although might not yet be as adept as an L3 in aligning technical solutions with broader organizational goals.
+5. **Stakeholder Communication**: They can effectively communicate with peers and may have started interfacing with stakeholders, although might not yet be as adept as an L3 in aligning technical solutions with broader organizational goals.
 
 [Read More about our 12 Hour L2 Screening Process](/TechnicalScreeningProcess/#l2-2-4-years-of-experience-senior-level){ .md-button--secondary  }
 
