@@ -14,11 +14,12 @@ Choose an L1 when:
 ### **L2 (2 Rockets: 2-4 years of experience) - Senior Level**
 Choose an L2 when:
 
-1. **Technical Leadership and Project Management**: You require someone who can lead and manage a team of software engineers, oversee project delivery, and ensure successful execution.
-2. **Architectural Design and System Scalability**: You are working on large-scale projects that demand expertise in designing scalable and maintainable software systems.
-3. **Technical Strategy**: You need someone to define and implement technical strategies, make architectural decisions, and drive the technical direction of the team or organization.
-4. **Mentorship and Skill Development**: You want an engineer who can provide mentorship to junior team members, facilitate knowledge sharing, and foster a culture of continuous learning.
-5. **Stakeholder Management**: You require someone who can effectively communicate with stakeholders, understand business requirements, and align technical solutions with organizational goals.
+1. **Intermediate Expertise**: You need a developer with a firm grasp of software development principles and a proven track record. While they might not have the breadth of experience as an L3, they've successfully tackled a variety of challenges and can handle moderately complex projects.
+2. **Collaborative Development**: They are often well-suited to working as part of a larger team, complementing both junior and more experienced developers.
+3. **Architectural Input**: While they might not be the chief architects, L2 developers can offer valuable input on system design based on their experience with different tools and methods.
+4. **Problem Solving**: You're seeking someone who can efficiently troubleshoot and solve problems as they arise, drawing from their growing bank of experience.
+5. **Mentorship**: An L2 can often assist in mentoring L1 engineers, sharing their experiences, mistakes, and learnings from their early years.
+6. **Stakeholder**: Communication: They can effectively communicate with peers and may have started interfacing with stakeholders, although might not yet be as adept as an L3 in aligning technical solutions with broader organizational goals.
 
 [Read More about our 12 Hour L2 Screening Process](/TechnicalScreeningProcess/#l2-2-4-years-of-experience-senior-level){ .md-button--secondary  }
 
