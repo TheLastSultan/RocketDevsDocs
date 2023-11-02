@@ -2,7 +2,7 @@
 title: The Non-Technical Founder's Guide to Hiring Freelance Software Developers
 ---
 
-![Image Alt Text](/blog/assets/image1.jpeg#center)
+![Image Alt Text](/blog/assets/article1/image1.jpeg#center)
 
 In today's digital age, software development plays a pivotal role in the success of businesses. However, for non-technical founders, navigating the realm of code and programming can be a daunting task. That's where freelance software developers come in as invaluable assets. Their expertise can help turn your ideas into reality without the need for a full-time, in-house tech team.
 
@@ -20,7 +20,7 @@ The objective of this article is to offer a comprehensive guide tailored specifi
 <br>
 
 ## **Where to Find Freelance Developers**
-![Image Alt Text](/blog/assets/image2.jpeg#center)
+![Image Alt Text](/blog/assets/article1/image2.jpeg#center)
 
 Freelance platforms like RocketDevs, Upwork, Freelancer, and Toptal have become go-to destinations for finding freelance developers. These platforms offer a vast pool of talent, with profiles and ratings to help you make informed choices. They provide a structured environment for posting job listings and negotiating terms with freelancers.
 Specialized job boards and developer communities cater to niche requirements. Websites like GitHub Jobs, Stack Overflow Jobs, and Behance can be excellent sources for finding developers with specific skills or expertise. These platforms often attract highly skilled professionals who are passionate about their work.
@@ -40,7 +40,7 @@ Personal and professional networks can be a goldmine for referrals. Don't undere
 
 ## **Vetting and Interviewing Freelance Developers**
 
-![Image Alt Text](/blog/assets/image3.jpeg#center)
+![Image Alt Text](/blog/assets/article1/image3.jpeg#center)
 
 When considering freelance developers, take the time to thoroughly examine their profiles on freelance platforms. Scrutinize their portfolios to assess the quality of their past work and whether it aligns with your project needs. Additionally, pay attention to reviews and ratings from previous clients to gauge their reliability and professionalism.
 Your job posting is your first point of contact with potential freelancers. Craft a clear and comprehensive job description that outlines your project's requirements, expected deliverables, and any specific skills you're looking for. Include screening questions that help you filter candidates who are the best fit for your project.

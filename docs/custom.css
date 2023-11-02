@@ -1,5 +1,4 @@
-.center-image {
-    display: flex;
-    justify-content: center; /* Horizontally center */
-    align-items: center; /* Vertically center */
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
 }
