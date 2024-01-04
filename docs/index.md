@@ -17,7 +17,9 @@ Another point of pride: We are bootstrapped and profitable from Day 1. Unlike ou
 <img src="./assets/african_map.png" alt="Africa Map" style="width:60%">
 </div>
 
-As a team in Africa, we believe that Africa's software development landscape is brimming with untapped potential, driven by the increasing availability of free education and improved infrastructure. With a youthful and rapidly expanding population, the continent stands as a unique opportunity for substantial economic growth and advancement while fueling your startup.
+As a team in Africa, we believe that Africa's software development landscape is brimming with untapped potential, driven by the increasing availability of free education and improved infrastructure. With a youthful and rapidly expanding population, the continent stands as a unique opportunity for substantial economic growth and advancement.
+
+Where needed, RocketDevs will supply equipment to ensure access to the internet and computing resources. By doing so we aim to foster economic progress and drive a significant humanitarian impact. These jobs not only offer financial stability but also empower individuals to lead better lives, access quality education, and actively contribute to their communities.
 
 ### **Rigorous 8-Hour Screening Process**
 <div align="center">
@@ -32,7 +34,7 @@ At RocketDevs, talent screening is our bread and butter. [Our comprehensive and 
 <img src="./assets/video_answer.png" alt="Video Answer" style="width:60%">
 </div>
 
-[We provide a fully comprehensive view and access to the assessment results](https://youtu.be/4nUcmkj0yfQ?si=vcsY4awOGdScnPbA&t=69), giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
+Every developer must successfully complete a minimum of 8 hours of interviews. [We provide a fully comprehensive view and access to the assessment results of the top candidates](https://youtu.be/4nUcmkj0yfQ?si=vcsY4awOGdScnPbA&t=69), giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
 
 By leveraging our advanced assessment tools, you can have confidence in the developers you select from RocketDevs. You can review their technical proficiency, problem-solving approaches, and how they handle real-time challenges during the assessment process. This comprehensive evaluation empowers you to align your hiring decisions with your specific project requirements and organizational goals.
 
@@ -63,5 +65,6 @@ Take advantage of the two-week trial offered by RocketDevs. During this period, 
 
 <br> 
 
+<div class="scheduler-inline-widget" data-url="https://creatorfy.larksuite.com/scheduler/embed/67562d752c447b85" style="width:100%;height:626px;"></div>
 <script type="text/javascript" src="https://creatorfy.larksuite.com/scheduler/embed/scheduler-widget.js" async></script>
-<script type="text/javascript">window.onload=function(){LarkScheduler.initPopupWidget({"url":"https://creatorfy.larksuite.com/scheduler/embed/67562d752c447b85","text":"Schedule my time","color":"#FFFFFF","background":"#F54A45"});}</script>
+<!-- Lark Scheduler Inline Embed End -->
