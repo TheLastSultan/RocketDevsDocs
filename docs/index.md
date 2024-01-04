@@ -63,8 +63,4 @@ Take advantage of the two-week trial offered by RocketDevs. During this period, 
     <button type="button" class="md-button md-button--primary" onclick="window.location.href = 'https://rocketdevs.com/browse';"> Browse Developers</button>
 </div>
 
-<br> 
-
-<div class="scheduler-inline-widget" data-url="https://creatorfy.larksuite.com/scheduler/embed/67562d752c447b85" style="width:100%;height:626px;"></div>
-<script type="text/javascript" src="https://creatorfy.larksuite.com/scheduler/embed/scheduler-widget.js" async></script>
-<!-- Lark Scheduler Inline Embed End -->
+<br>
