@@ -1,6 +1,6 @@
 # Why RocketDevs?
 
-At RocketDevs, we are on a mission to make technical hiring simple. Our unique approach combines unparalleled value, rigorous screening, and productivity management to deliver top-notch performance at unbeatable value. All while bringing opportunity to regions where it is needed most.
+At RocketDevs, we are on a mission to bring job opportunities to emerging countries. Our unique approach combines unparalleled value, rigorous screening, and productivity management to deliver top-notch performance at unbeatable value. All while bringing opportunity to regions where it is needed most.
 
 ### **Unparalleled Cost/Impact**
 
@@ -8,25 +8,33 @@ At RocketDevs, we are on a mission to make technical hiring simple. Our unique a
 <img src="./assets/pricing_table.png" alt="Pricing table" style="width:60%">
 </div>
 
-As a bootstrapped startup, we understand the importance of cost-effectiveness without compromising on competence. While our competitors charge $8640/month and $12480/month per median-priced developer, RocketDevs offers an incredible pricing model. We charge only $2400/month for the same high-caliber developer talent (~$15/hr). This means significant savings for your company while still securing exceptional remote developers who meet your specific requirements.
+As a bootstrapped startup, we understand the importance of cost-effectiveness without compromising on competence. While our competitors charge $8,640/month and $12,480/month per median-priced developer, RocketDevs offers an incredible pricing model. We charge only $1600/month for the same high-caliber developer talent. We accomplish this by This means significant savings for your company while still securing exceptional remote developers who meet your specific requirements.
 
-We are bootstrapped and profitable from Day 1. Unlike our competitors, we don't have a 87M Series D debt note and series debt note and never will. Our 90% margin is your 90% savings.
+Another point of pride: We are bootstrapped and profitable from Day 1. Unlike our competitors, we don't have a 87M Series D debt note and never will. Our 90% margin is your 90% savings.
 
-### **Rigorous 10-Hour Screening Process**
-At RocketDevs, talent screening is our bread and butter. [Our comprehensive and meticulous 10-hour screening process](TechnicalScreeningProcess.md) ensures that only the most competent developers make it through. We assess their technical skills, problem-solving abilities, and overall suitability for remote work. By investing significant time and effort in screening, we deliver developers who are not only highly skilled but also possess the right mindset and work ethic to thrive in a remote environment.
+### **Feel good about it: The Humanitarian Power of our Mission**
+<div align="center">
+<img src="./assets/african_map.png" alt="Africa Map" style="width:60%">
+</div>
+
+As a team in Africa, we believe that Africa's software development landscape is brimming with untapped potential, driven by the increasing availability of free education and improved infrastructure. With a youthful and rapidly expanding population, the continent stands as a unique opportunity for substantial economic growth and advancement while fueling your startup.
+
+### **Rigorous 8-Hour Screening Process**
+<div align="center">
+<img src="./assets/pipeline_view.png" alt="Pipeline View" style="width:60%">
+</div>
+
+At RocketDevs, talent screening is our bread and butter. [Our comprehensive and meticulous 8-hour screening process](TechnicalScreeningProcess.md) ensures that only the most competent developers make it through. We assess their technical skills, problem-solving abilities, and overall suitability for remote work. By investing significant time and effort in screening, we deliver developers who are not only highly skilled but also possess the right mindset and work ethic to thrive in a remote environment.
 
 ### **Watch the screenings as if you were there**
 
 <div align="center">
-<img src="./assets/screenshot.png" alt="Pricing table" style="width:60%">
+<img src="./assets/video_answer.png" alt="Video Answer" style="width:60%">
 </div>
 
 [We provide a fully comprehensive view and access to the assessment results](https://youtu.be/4nUcmkj0yfQ?si=vcsY4awOGdScnPbA&t=69), giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
 
 By leveraging our advanced assessment tools, you can have confidence in the developers you select from RocketDevs. You can review their technical proficiency, problem-solving approaches, and how they handle real-time challenges during the assessment process. This comprehensive evaluation empowers you to align your hiring decisions with your specific project requirements and organizational goals.
-
-Our commitment to providing you with a holistic view of the assessment results underscores our dedication to quality and transparency. With RocketDevs, you can be assured that the developers you choose have undergone rigorous evaluation, ensuring that you have access to top talent that is both technically competent and well-suited for remote work environments.
-
 
 ### **Make Every Second Count**
 
@@ -53,3 +61,7 @@ Take advantage of the two-week trial offered by RocketDevs. During this period, 
     <button type="button" class="md-button md-button--primary" onclick="window.location.href = 'https://rocketdevs.com/browse';"> Browse Developers</button>
 </div>
 
+<br> 
+
+<script type="text/javascript" src="https://creatorfy.larksuite.com/scheduler/embed/scheduler-widget.js" async></script>
+<script type="text/javascript">window.onload=function(){LarkScheduler.initPopupWidget({"url":"https://creatorfy.larksuite.com/scheduler/embed/67562d752c447b85","text":"Schedule my time","color":"#FFFFFF","background":"#F54A45"});}</script>
