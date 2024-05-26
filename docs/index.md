@@ -1,66 +1,71 @@
-# Why RocketDevs?
+# Welcome to RocketDevs
 
-At RocketDevs, we are on a mission to bring job opportunities to emerging countries. Our unique approach combines unparalleled value, rigorous screening, and productivity management to deliver top-notch performance at unbeatable value. All while bringing opportunity to regions where it is needed most.
-
-### **Unparalleled Cost/Impact**
-
-<div align="center">
-<img src="./assets/pricing_table.png" alt="Pricing table" style="width:60%">
-</div>
-
-As a bootstrapped startup, we understand the importance of cost-effectiveness without compromising on competence. While our competitors charge $8,640/month and $12,480/month per median-priced developer, RocketDevs offers an incredible pricing model. We charge only $1600/month for the same high-caliber developer talent. We accomplish this by leveraging a global talent pool, optimizing operational efficiencies, and utilizing a remote-first approach to reduce overhead costs. This means significant savings for your company while still securing exceptional remote developers who meet your specific requirements.
-
-Another point of pride: We are bootstrapped and profitable from Day 1. Unlike our competitors, we don't have a 87M Series D debt note and never will. Our 90% margin is your 90% savings.
-
-### **Feel good about it: The Humanitarian Power of our Mission**
 <div align="center">
 <img src="./assets/african_map.png" alt="Africa Map" style="width:60%">
 </div>
 
-As a team in Africa, we believe that Africa's software development landscape is brimming with untapped potential, driven by the increasing availability of free education and improved infrastructure. With a youthful and rapidly expanding population, the continent stands as a unique opportunity for substantial economic growth and advancement.
+## About RocketDevs
 
-Where needed, RocketDevs will supply equipment to ensure access to the internet and computing resources. By doing so we aim to foster economic progress and drive a significant humanitarian impact. These jobs not only offer financial stability but also empower individuals to lead better lives, access quality education, and actively contribute to their communities.
+RocketDevs is a non-profit organization dedicated to bridging the gap between talented software developers in Africa and startups worldwide seeking to harness the potential of diverse technological talent. At RocketDevs, we believe in creating opportunities where they are most needed, helping to spotlight and elevate the exceptional skills of African developers often overlooked in the global tech scene.
 
-### **Rigorous 8-Hour Screening Process**
-<div align="center">
-<img src="./assets/pipeline_view.png" alt="Pipeline View" style="width:60%">
-</div>
+### Our Mission
 
-At RocketDevs, talent screening is our bread and butter. [Our comprehensive and meticulous 8-hour screening process](TechnicalScreeningProcess.md) ensures that only the most competent developers make it through. We assess their technical skills, problem-solving abilities, and overall suitability for remote work. By investing significant time and effort in screening, we deliver developers who are not only highly skilled but also possess the right mindset and work ethic to thrive in a remote environment.
+Our mission is to provide a platform that not only connects African developers with global tech startups but also supports the growth and development of these talents. By offering our services at no cost, we aim to foster an inclusive, equitable tech ecosystem where talent alone determines opportunities.
 
-### **Watch the screenings as if you were there**
+### Vision
 
-<div align="center">
-<img src="./assets/video_answer.png" alt="Video Answer" style="width:60%">
-</div>
+Our vision is a tech industry that values diversity and recognizes the innovative potential of developers from all backgrounds, including those from underrepresented regions such as Africa.
 
-Every developer must successfully complete a minimum of 8 hours of interviews. [We provide a fully comprehensive view and access to the assessment results of the top candidates](https://youtu.be/4nUcmkj0yfQ?si=vcsY4awOGdScnPbA&t=69), giving you complete transparency in the evaluation process. Our assessment platform captures detailed information, including multiple-choice assessments, skill-based assessments focusing on individual strengths, and even live video recordings of algorithims and system design. This comprehensive view allows you to gain deep insights into the candidates' performance, helping you make informed decisions based on objective data.
+## Why RocketDevs?
 
-By leveraging our advanced assessment tools, you can have confidence in the developers you select from RocketDevs. You can review their technical proficiency, problem-solving approaches, and how they handle real-time challenges during the assessment process. This comprehensive evaluation empowers you to align your hiring decisions with your specific project requirements and organizational goals.
+### The Challenge
 
-### **Make Every Second Count**
+African software developers often face significant barriers to employment in the global tech market, including:
 
-<div align="center">
-<img src="./assets/td.png" alt="Productivity Management" style="width:60%">
-</div>
+- **Visibility:** Despite high levels of skill and competence, African developers frequently lack the visibility and access to opportunities that developers in more prominent tech hubs enjoy.
+- **Access to Opportunities:** Limited job opportunities in local markets compel developers to seek employment internationally, where they often encounter biases and misconceptions about their skills and capabilities.
+- **Networking Challenges:** Developers in Africa typically have fewer opportunities to network with international tech companies and startups.
 
-RocketDevs ships with [real-time monitoring and detailed reports](https://www.youtube.com/watch?v=4nUcmkj0yfQ&t=89s) designed to empower managers to make data-driven decisions about resource allocation and project priorities. This level of visibility not only promotes transparency but also bolsters accountability among remote workers, ensuring they remain on track and aligned with organizational goals.
+### Our Solution
 
-Fully integrated ith the tools you use: JIRA, Trello, GitHub, G-suite, Zoom, and way more.
+RocketDevs addresses these challenges by:
 
-### **Risk-Free Trial Period**
-Take advantage of the two-week trial offered by RocketDevs. During this period, you can work with the developer to assess their skills and determine their compatibility with your project requirements. This risk-free trial allows you to make an informed decision before committing further.
+- **Creating Visibility:** Showcasing the top talent available in Africa through a comprehensive, easy-to-navigate platform.
+- **Providing Free Access:** Allowing startups to sign up, browse, and interview developers at no cost, removing financial barriers that might deter small startups or individuals from exploring this rich talent pool.
+- **Cultivating Equal Opportunities:** By emphasizing talent and skill over location and background, RocketDevs ensures that every developer gets a fair chance to prove their capabilities.
 
-<br>
+## Services Offered
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4nUcmkj0yfQ?si=9XNd9B9EZSoZFBg_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+### For Startups
 
-<br>
+- **Free Registration:** Startups can register on the RocketDevs platform at no cost.
+- **Talent Search:** Access a diverse pool of software developers from across Africa, each vetted for their skills and expertise.
+- **Interview Scheduling:** Use our platform to schedule interviews and find the perfect match for your development needs without any fee.
 
-<div align="center">
-    <button type="button" class="md-button md-button--primary" onclick="window.location.href = 'https://rocketdevs.com/browse';"> Browse Developers</button>
-</div>
+### For Developers
 
-<br>
+- **Showcase Your Skills:** Join RocketDevs to get listed on a platform that is visited by startups from around the world.
+- **Professional Growth:** Receive opportunities for interviews and placements that can lead to career growth and exposure to international markets.
+- **Networking:** Connect with other developers and companies to expand your professional network.
+
+## Getting Started
+
+### For Startups
+
+1. **Sign Up:** Register your company on the RocketDevs platform.
+2. **Browse Profiles:** Look through our database of developers to find potential matches.
+3. **Interview Developers:** Schedule interviews directly through our platform.
+
+### For Developers
+
+1. **Sign Up:** Complete your profile to join our network of developers.
+2. **Get Discovered:** Your profile will be visible to startups looking for your skills.
+3. **Interview Opportunities:** Receive and respond to interview requests from startups.
+
+## Support
+
+For support, visit our help center or contact our support team at [support@mail.rocketdevs.com](mailto:support@rocketdevs.org). We are here to assist you every step of the way!
+
+## Join Us
+
+Whether you are a startup looking to innovate with diverse talent, or a developer in Africa aspiring to global opportunities, RocketDevs is your platform. Let's build a more inclusive tech world together!
