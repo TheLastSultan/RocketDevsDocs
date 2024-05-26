@@ -56,16 +56,25 @@ RocketDevs addresses these challenges by:
 2. **Browse Profiles:** Look through our database of developers to find potential matches.
 3. **Interview Developers:** Schedule interviews directly through our platform.
 
+
 ### For Developers
 
 1. **Sign Up:** Complete your profile to join our network of developers.
 2. **Get Discovered:** Your profile will be visible to startups looking for your skills.
 3. **Interview Opportunities:** Receive and respond to interview requests from startups.
 
+
+<br>
+
+<div align="center">
+    <button type="button" class="md-button md-button--primary" onclick="window.location.href = 'https://rocketdevs.com/browse';"> Browse Talent </button>
+</div>
+
+<br>
+
+
+
 ## Support
 
 For support, visit our help center or contact our support team at [support@mail.rocketdevs.com](mailto:support@rocketdevs.org). We are here to assist you every step of the way!
 
-## Join Us
-
-Whether you are a startup looking to innovate with diverse talent, or a developer in Africa aspiring to global opportunities, RocketDevs is your platform. Let's build a more inclusive tech world together!
