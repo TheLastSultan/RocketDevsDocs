@@ -4,7 +4,7 @@
 #### 2. **What is RocketDevs' screening process like?**  
  A: RocketDevs employs a comprehensive 12-hour screening process that assesses technical skills, problem-solving abilities, and suitability for remote work. [We recommend you browse through our screening process](TechnicalScreeningProcess.md) to learn more
 #### 3. **Why do I have to complete an Onboarding Call?**  
- A: All companies must complete a 15-minute onboarding call with our CEO before gaining full access to the platform. This is mostly designed to keep bad actors out of the system. Remember, you will have access to all assessment questions and answers after onboarding! It's also a great opportunity for us to connect and understand your hiring needs. Our CEO will usually handpick 2-3 RocketDevs as recommendations.
+ A: All companies must complete a 15-minute onboarding call with our CEO before gaining full access to the platform. This is mostly designed to keep developers that are taking assessments out of the system. Remember, you will have access to all assessment questions and answers after onboarding! It's also a great opportunity for us to connect and understand your hiring needs. Our CEO will usually handpick 2-3 RocketDevs as recommendations.
 #### 4. **Can I see the assessment results of developers?**  
  A: Yes, RocketDevs provides a deep developer profile that offers complete transparency in the evaluation process, including detailed assessment results and even video recordings of algorithms and system design.
 #### 5. **How does RocketDevs invest in talent?**  
