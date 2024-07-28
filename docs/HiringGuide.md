@@ -1,7 +1,7 @@
 # RocketLevel Hiring Guide
 When browsing RocketDevs a company can choose the caliber of developer annotated by RocketLevels. This guide is designed to assist companies in making informed decisions when hiring developers through RocketDevs' platform. Whether you are a startup looking for technical talent or an established company seeking to augment your engineering team, this guide will provide valuable insights and considerations between our three competency levels (L1, L2, and L3).
 
-### **L1 (1 Rocket: 0-2 years of experience) - Associate Level**
+### **L1 (1 Rocket: 0-2 years of experience)[~$980/mo] - Associate Level**
 Choose an L1 when:  
 
 1. **Junior-Level Experience**: You are open to hiring individuals who are early in their software development careers, typically with 0-2 years of experience.
@@ -11,7 +11,7 @@ Choose an L1 when:
 
 [Read More about our 8 Hour L1 Screening Process](/TechnicalScreeningProcess/#l1-0-2-years-of-experience-associate-level){ .md-button--secondary }
 
-### **L2 (2 Rockets: 2-4 years of experience) - Senior Level**
+### **L2 (2 Rockets: 2-4 years of experience)[~$1650/mo] - Senior Level**
 Choose an L2 when:
 
 1. **Intermediate Expertise**: You need a developer with a firm grasp of software development principles and a proven track record. While they might not have the breadth of experience as an L3, they've successfully tackled a variety of challenges and can handle moderately complex projects.
@@ -22,7 +22,7 @@ Choose an L2 when:
 
 [Read More about our 12 Hour L2 Screening Process](/TechnicalScreeningProcess/#l2-2-4-years-of-experience-senior-level){ .md-button--secondary  }
 
-### **L3 (3 Rockets: 4+ years of experience) - Lead Level**
+### **L3 (3 Rockets: 4+ years of experience)[~$2700/mo] - Lead Level**
 Choose an L3 when:
 
 1. **Technical Leadership and Project Management**: You require someone who can lead and manage a team of software engineers, oversee project delivery, and ensure successful execution.
