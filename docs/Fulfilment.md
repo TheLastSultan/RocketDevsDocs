@@ -10,13 +10,17 @@
 - To initiate a refund, please contact us at support@mail.rocketdevs.com.
 - Refunds will be issued in the original payment method.
 
+## Card Accepted
+- The cards accepted are VISA, MasterCard, and American Express.
+
+
 ## Cancellation Policy
 
 - Cancellations are accepted before start date.
 
 ## Product Descriptions
 
-- We are a staffing service.
+- We are a staffing service.c
 
 ## Contact Us
 
